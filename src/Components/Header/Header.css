@@ -1,0 +1,50 @@
+.header{
+    flex-direction: row;
+    color: black;
+    padding: 30px;
+    padding-top: 40px;
+}
+
+.pricing {
+    padding-right: 60px;
+    position: relative;
+}
+
+.contact{
+   padding-right: 60px;
+    position: relative;
+}
+
+.login{
+    padding-right: 60px;
+    position: relative;
+}
+
+.features{
+    padding: 0 450px;
+    padding-right: 60px;
+    position: relative;
+ }
+
+ .navbar {
+     padding: 0 1200px;
+     margin: 0 40px;
+ }
+
+ .logo {
+     padding-left: 6.625rem;
+ }
+
+ .LogIn-btn {
+    right: 0;
+    margin: 1.125rem 3% 0;
+    padding: 0.4375rem 1.0625rem;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 0.1875rem;
+    font-size: 1rem;
+    background: var(--main-red);
+    position: absolute;
+    cursor: pointer;
+   
+}
